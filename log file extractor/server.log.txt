@@ -1,5 +1,0 @@
-[INFO] 2026-08-28 10:01:22 - User logged in successfully
-[ERROR] 2026-08-28 10:02:45 - Database connection timeout
-[WARNING] 2026-08-28 10:05:12 - High memory usage detected
-[ERROR] 2026-08-28 10:10:33 - Unauthorized access attempt on /admin
-[INFO] 2026-08-28 10:12:00 - User logged out
