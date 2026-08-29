@@ -1,4 +1,0 @@
-/ea
-/tuff
-/admin
-/shutdown
